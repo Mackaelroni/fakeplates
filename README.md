@@ -2,6 +2,8 @@
 
 For the plate to save to the item, you need to edit your qb-inventory.
 
+Preview - https://www.youtube.com/watch?v=0-zeAanZaUo
+
 //// First Edit ////
 
 Around line 571 in qb-inventory/html/js/app.js add this
