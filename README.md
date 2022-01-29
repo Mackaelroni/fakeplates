@@ -27,6 +27,4 @@ Last thing, add the items to you qb-core/shared/items.lua
 
 
 ["fake_plate"] 				     = {["name"] = "fake_plate", 				["label"] = "Fake Plate", 				["weight"] = 0, 		["type"] = "item", 		["image"] = "plate.png", 				    ["unique"] = true, 		["useable"] = true, 	['shouldClose'] = false,    	["combinable"] = nil,   ["description"] = "Marked for Police seizure."},
-
-
 ["license_plate"] 				 = {["name"] = "license_plate", 			["label"] = "Plate", 					["weight"] = 0, 		["type"] = "item", 		["image"] = "plate.png", 				    ["unique"] = true, 		["useable"] = true, 	['shouldClose'] = false,    	["combinable"] = nil,   ["description"] = "Plate for vehicle"},
